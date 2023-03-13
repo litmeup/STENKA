@@ -1,0 +1,19 @@
+{
+  "name": "stenka",
+  "version": "1.0.0",
+  "description": "Stenograffia website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litmeup/STENKA.git"
+  },
+  "author": "Yulia Fedyakina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litmeup/STENKA/issues"
+  },
+  "homepage": "https://github.com/litmeup/STENKA#readme"
+}
